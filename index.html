@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="./favicon.ico" />
+    <!-- No pinching and no double-tap zoom. This is an app, not a page of
+         text to magnify, and on a phone a double tap meant for a button
+         was being read as "zoom in here" instead. -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>ArcMe</title>
+
+    <!-- Added to the home screen, this opens with no address bar and no
+         toolbar. In a browser tab those take a couple of centimetres off the
+         bottom of the screen, which is exactly where the app's own bar sits,
+         so the two end up on top of each other. iOS reads the apple- tags;
+         everything else reads the manifest. -->
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <meta name="theme-color" content="#faf7f1" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="ArcMe" />
+    <!-- default keeps the clock and battery legible on the cream paper;
+         black-translucent would put them over the page. -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <link rel="apple-touch-icon" href="./arcme-logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Caveat:wght@500;600;700&family=Architects+Daughter&family=Inter:wght@300;400;500;600&family=Oswald:wght@500;600;700&family=Barlow+Semi+Condensed:wght@500;600;700&family=Nunito:wght@400;600;700&family=Playfair+Display:wght@500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,600&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <script type="module" crossorigin src="./assets/index-tI1K0p06.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CA-sFcdr.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
