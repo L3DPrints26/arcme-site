@@ -1,12 +1,10 @@
 {
-  "version": "1.8.1",
-  "title": "Song search works on iPhone, and albums are tidy boxes",
+  "version": "1.8.2",
+  "title": "Sign in with Apple Music, right at the top",
   "big": false,
   "notes": [
-    "Searching for a song works on iPhone again — it used to spin forever.",
-    "Yesteryears albums are titled square boxes, three across, up to six.",
-    "Your page reaches closer to the edges of the screen on newer iPhones."
+    "Tap your song, then “Sign in with Apple Music” at the top — whole songs play instead of 30-second previews."
   ],
   "shell": 89671878,
-  "builtAt": "2026-10-26T10:16:25.820Z"
+  "builtAt": "2026-10-26T22:11:08.536Z"
 }
