@@ -1,10 +1,11 @@
 {
-  "version": "1.8.2",
-  "title": "Sign in with Apple Music, right at the top",
+  "version": "1.8.3",
+  "title": "Drag to skip through a song",
   "big": false,
   "notes": [
-    "Tap your song, then “Sign in with Apple Music” at the top — whole songs play instead of 30-second previews."
+    "Hold the dot on the song’s slider and drag it to skip ahead or back.",
+    "In the song list, the last songs scroll clear of the Done button."
   ],
   "shell": 89671878,
-  "builtAt": "2026-10-26T22:11:08.536Z"
+  "builtAt": "2026-10-26T22:18:58.665Z"
 }
