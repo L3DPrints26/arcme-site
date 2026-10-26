@@ -1,11 +1,11 @@
 {
-  "version": "1.8.3",
-  "title": "Drag to skip through a song",
+  "version": "1.8.4",
+  "title": "Pinch and twist your stickers",
   "big": false,
   "notes": [
-    "Hold the dot on the song’s slider and drag it to skip ahead or back.",
-    "In the song list, the last songs scroll clear of the Done button."
+    "Two fingers on a sticker: pinch to make it bigger or smaller, twist to turn it.",
+    "Tap anywhere else to put a sticker down."
   ],
   "shell": 89671878,
-  "builtAt": "2026-10-26T22:18:58.665Z"
+  "builtAt": "2026-10-26T22:31:08.015Z"
 }
