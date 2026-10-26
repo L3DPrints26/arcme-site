@@ -1,11 +1,13 @@
 {
-  "version": "1.8.4",
-  "title": "Pinch and twist your stickers",
-  "big": false,
+  "version": "1.9.0",
+  "title": "Your page, the way you drew it",
+  "big": true,
   "notes": [
-    "Two fingers on a sticker: pinch to make it bigger or smaller, twist to turn it.",
-    "Tap anywhere else to put a sticker down."
+    "Your page is your own design now, and it fills the whole phone: months and years across the top, your banner, your card, the journal, a bookshelf of albums, the boombox, the calendar, Live Feed, Love and Friends.",
+    "Tap ArcMe at the top for the menu; tap a month, a year or a date to go to that day.",
+    "Tap the boombox to play; My Music to choose a song or sign in to Apple Music.",
+    "Prefer another look? Menu → Page look → Theme."
   ],
   "shell": 89671878,
-  "builtAt": "2026-10-26T22:31:08.015Z"
+  "builtAt": "2026-10-26T22:39:16.233Z"
 }
