@@ -1,10 +1,10 @@
 {
-  "version": "1.9.3",
-  "title": "Pick a year, then a month",
+  "version": "1.9.4",
+  "title": "A month’s days, big",
   "big": false,
   "notes": [
-    "Tapping a year shows that whole year — twelve months, the ones with something on them wearing a photo. Tap a month to choose its day."
+    "Tapping a month shows every day of it as a big tile, like the months — scroll down through them. Days with something show their photo or their first words."
   ],
   "shell": 89671878,
-  "builtAt": "2026-11-08T03:59:52.911Z"
+  "builtAt": "2026-11-08T04:13:19.413Z"
 }
