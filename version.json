@@ -1,13 +1,10 @@
 {
-  "version": "1.9.1",
-  "title": "Swipe the years, and stickers that stay put",
+  "version": "1.9.2",
+  "title": "Tap a month or a year to see it",
   "big": false,
   "notes": [
-    "Swipe the years left or right to see more of them; the months fill the strip with no arrows.",
-    "Stickers: tap one to pick it up, then two fingers anywhere on the screen to size and turn it. Tap off it twice to put it down.",
-    "Add photos or videos is in the menu (tap ArcMe).",
-    "No more backgrounds to choose — the page fills the screen on its own paper."
+    "Tap a month or a year at the top: that month opens, with every day — the ones with something on them show their photo and are listed underneath. Tap one to go to it."
   ],
   "shell": 89671878,
-  "builtAt": "2026-10-26T23:02:48.376Z"
+  "builtAt": "2026-11-08T03:53:38.266Z"
 }
