@@ -1,12 +1,11 @@
 {
-  "version": "1.9.5",
-  "title": "Your favourite songs, and your own banner",
+  "version": "1.9.6",
+  "title": "Opens with no signal, and your journal keeps its lines",
   "big": false,
   "notes": [
-    "Tap ♥ on the boombox (or beside any song in the list) to keep a song in My Music. ⏭ plays the next favourite, shuffle picks one, ⏮ goes back.",
-    "My Music shows the day’s song and all your favourites, each a tap from playing.",
-    "Tap the banner picture to change it — any of your photos, or one from your phone."
+    "ArcMe opens even with no signal — on a plane, in the country — showing your page as you left it.",
+    "Writing in your journal keeps the lines you break, and what you type is kept even if you close ArcMe mid-sentence."
   ],
   "shell": 89671878,
-  "builtAt": "2026-11-12T18:42:12.327Z"
+  "builtAt": "2026-11-12T20:06:53.272Z"
 }
