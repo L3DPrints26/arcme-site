@@ -1,10 +1,12 @@
 {
-  "version": "1.9.4",
-  "title": "A month’s days, big",
+  "version": "1.9.5",
+  "title": "Your favourite songs, and your own banner",
   "big": false,
   "notes": [
-    "Tapping a month shows every day of it as a big tile, like the months — scroll down through them. Days with something show their photo or their first words."
+    "Tap ♥ on the boombox (or beside any song in the list) to keep a song in My Music. ⏭ plays the next favourite, shuffle picks one, ⏮ goes back.",
+    "My Music shows the day’s song and all your favourites, each a tap from playing.",
+    "Tap the banner picture to change it — any of your photos, or one from your phone."
   ],
   "shell": 89671878,
-  "builtAt": "2026-11-08T04:13:19.413Z"
+  "builtAt": "2026-11-12T18:42:12.327Z"
 }
